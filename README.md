@@ -35,3 +35,4 @@ Aleksi Karhula is a postdoctoral researcher at the Ecosystems and Environment Re
 
 ## License
 
+GNU General Public License Version 3
