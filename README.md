@@ -35,6 +35,11 @@ Aleksi Karhula is a postdoctoral researcher at the Ecosystems and Environment Re
 <img width="697" alt="Screenshot 2021-09-02 at 11 56 46" src="https://user-images.githubusercontent.com/75479046/131815271-fa49b0c3-4b2a-48d7-b360-eb6e618198ff.png">
 
 
+## Cite as
+
+Jani Erola, Hannu Lehti, Tina Baier & Aleksi Kahula (2021). INVEST-flagship/Erola-et-al-2021-Socioeconomic-Background-and-Gene-Environment-Interplay-in-Social-Stratification. Zenodo. http://doi.org/10.5281/zenodo.5412271
+
+
 ## License
 
 Creative Commons Attribution 4.0 International
