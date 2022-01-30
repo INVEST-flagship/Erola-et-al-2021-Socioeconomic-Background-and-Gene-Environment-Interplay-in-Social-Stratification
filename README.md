@@ -1,16 +1,19 @@
 # Erola et al. (2021) Socioeconomic Background and Gene Environment Interplay in Social Stratification
+## A code repository for the statistical analyses
+
+Jani Erola, Hannu Lehti, Tina Baier & Aleksi Karhula
 
 [![DOI](https://zenodo.org/badge/383436045.svg)](https://zenodo.org/badge/latestdoi/383436045)
 
 ## Introduction
 
-Repository for the codes used for the analyses of Jani Erola, Hannu Lehti, Tina Baier & Aleksi Kahula (2021) Socioeconomic Background and Gene–Environment Interplay in Social Stratification across the Early Life Course. All analyses in the article were conducted using Stata in the Fiona remote access system of Statistics Finland.
+Repository for the codes used for the analyses of Jani Erola, Hannu Lehti, Tina Baier & Aleksi Kahula (2022) Socioeconomic Background and Gene–Environment Interplay in Social Stratification across the Early Life Course (European Sociological Review, Volume 38, Issue 1, February 2022, Pages 1–17 [Advance Access published 04 August 2021]). All analyses in the article were conducted using Stata in the Fiona remote access system of Statistics Finland.
 
 The study was conducted using Finnish register-based total population data on 6,529 pairs of twins born between 1975 and 1986. Genetically sensitive variance decompositions was applied and gene–environment interactions were taken into account. Because the zygosity is unknown, a comparison of same-sex and opposite-sex twins was made to estimate the proportion of genetic variation.
 
 Complete Stata codes used are in separate .do -files.
 
-The full article can be found at: https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcab026/6339981
+The full article can be found at: https://doi.org/10.1093/esr/jcab026
 
 
 ## About authors
